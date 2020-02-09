@@ -17,7 +17,7 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
-		/*font-family: MontserratAlternates;*/
+		/* font-family: MontserratAlternates; */
 		vertical-align: baseline;
 	}
 
@@ -2558,6 +2558,7 @@
 	}
 
 	header p {
+		font-family: MontserratAlternates;
 		position: relative;
 		margin: 0 0 1.5rem 0;
 	}
@@ -2580,7 +2581,7 @@
 	}
 
 	header p {
-		color: #000;
+		color: #fff;
 	}
 
 /* Table */
