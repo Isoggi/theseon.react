@@ -38,10 +38,6 @@
   justify-content: center;
 }
 
-code {
-  font-family: "MontserratAlternates";
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

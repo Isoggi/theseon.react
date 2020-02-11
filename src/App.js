@@ -21,16 +21,6 @@ function App() {
         </a>
       </header>
     </div>
-    // <div class="header-container">
-		// 	<header id="header" class="alt">
-		// 		<div class="logo">
-		// 		    <a href="">
-		// 		        <img src="images/logo.png" alt="theseon" style="width:42px; height:42px" />
-		// 		        </a>
-		// 		    </div>
-		// 		<a href="#menu">Menu</a>
-		// 	</header>
-    // </div>
   );
 }
 
