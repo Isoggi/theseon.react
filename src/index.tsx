@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './assets//css/index.css';
+import './assets/css/index1.css';
+
 import App from './App';
-import Header from './Header'
+import { Header } from './components/layout/index'
 import * as serviceWorker from './serviceWorker';
 
 

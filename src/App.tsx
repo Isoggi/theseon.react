@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {logo} from './images';
-import './assets/css/App.css';
+// import Header from './components/layout/header'
 // import { index } from './home'
 // import { render } from '@testing-library/react';
 // import {} from "react-router-dom";
@@ -8,11 +8,7 @@ import './assets/css/App.css';
 class App extends Component {
   render() {
     return (
-    //  <div id="root">
-    //   index
-    //  </div>
-    // );
-    // }
+      // <Header/> 
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="theseon." />
